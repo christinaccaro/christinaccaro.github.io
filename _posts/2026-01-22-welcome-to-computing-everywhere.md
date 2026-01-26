@@ -33,7 +33,7 @@ This template uses the [minimal mistakes](https://mmistakes.github.io/minimal-mi
 - If you have questions, please ask!!! 
 
 ### Tips:
-- Don't like editing your files in VSCode? That's okay! Write and format your work in Google Docs. Then, select the content you want to copy over, use the "copy markdown" option (you can see it when you right click), and paste it into the corresponding markdown file in VSCode. 
+- Don't like editing your files in VSCode? That's okay! Write and format your work in Google Docs. Go to Tools > Preferences > Enable Markdown. Then, select the content you want to copy over, use the "copy markdown" option (you can see it when you right click), and paste it into the corresponding markdown file in VSCode. 
 
 ### Guides:
 - [Git cheat sheet](https://git-scm.com/cheat-sheet)
